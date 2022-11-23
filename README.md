@@ -1,7 +1,7 @@
 # Docker Extension Ideas
 
 ## 👋 Welcome!
-  We’re using Discussions as a place to collect suggestions for new Docker Extensions. We hope that you:
+  We’re using [GitHub Discussions](https://github.com/docker/extension-ideas/discussions) as a place to collect suggestions for new Docker Extensions. We hope that you:
   * Share ideas.
   * Engage with other community members on their ideas and explain how it could benefit you or your team.
   * Upvote 👍  ideas you'd love to see.
