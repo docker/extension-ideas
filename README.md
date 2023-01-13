@@ -17,7 +17,7 @@
 
 #### Extension Developers
 
-If you are interested in building extensions, but need a little inspriation, check out the discussions for some ideas!
+If you are interested in building extensions, but need a little inspiration, check out the discussions for some ideas!
 
 To get started building extensions, check out our [docs](https://docs.docker.com/desktop/extensions-sdk/)!
 
